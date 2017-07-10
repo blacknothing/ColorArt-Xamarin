@@ -1,3 +1,5 @@
-#ColorArt Xamarin Binding project#
+# ColorArt Xamarin Binding project
 
-https://github.com/fleitz/ColorArt
+[Original project - GitHub](https://github.com/fleitz/ColorArt)
+
+[NuGet package](https://www.nuget.org/packages/ColorArt.Xamarin)
